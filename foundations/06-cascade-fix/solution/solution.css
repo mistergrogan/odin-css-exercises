@@ -1,5 +1,5 @@
-body{
-  font-family:Arial, Helvetica, sans-serif;
+body {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .para,
@@ -20,8 +20,8 @@ body{
 
 div.text {
   color: rgb(0, 0, 0);
-  font-weight: 100;
   font-size: 22px;
+  font-weight: 100;
 }
 
 /* SOLUTION */
