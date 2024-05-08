@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+/* chain selectors avatar and proportioned -  Make the element with both the `avatar` and `proportioned` classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).*/
+
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
